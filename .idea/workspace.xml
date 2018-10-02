@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5490aef-158e-4c91-adfa-58630bb35857" name="Default Changelist" comment="" />
+    <list default="true" id="d5490aef-158e-4c91-adfa-58630bb35857" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/factories/LanisterFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/factories/PersonageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/factories/StarkFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/factories/TargaryenFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/Lanister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/Personage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/Stark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/Targaryen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/pet/Dragon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/pet/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/pet/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/pet/PetType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/pet/Wolf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/pinkmotan/pattern/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/pinkmotan/pattern/observer/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/pinkmotan/pattern/observer/observer/CustomObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/pinkmotan/pattern/observer/observer/Lanister.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/pinkmotan/pattern/observer/observer/Personage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/pinkmotan/pattern/observer/observer/Stark.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/pinkmotan/pattern/observer/observer/Targaryen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/pinkmotan/pattern/observer/subject/SevenKingdomThrone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/pinkmotan/pattern/observer/subject/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/pinkmotan/pattern/strategy/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/pinkmotan/pattern/strategy/client/Personage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/pinkmotan/pattern/strategy/client/Stark.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/pinkmotan/pattern/strategy/client/Targaryen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/pinkmotan/pattern/strategy/killbehaviour/KillMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/pinkmotan/pattern/strategy/killbehaviour/KillMachineInofensive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/pinkmotan/pattern/strategy/killbehaviour/KillWithDragonMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/pinkmotan/pattern/strategy/killbehaviour/KillWithSwordMachine.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,43 +49,173 @@
     <session id="332289332">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Personage" value="1" />
-          <entry key="java" value="46" />
+          <entry key="java" value="91" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="46" />
+          <entry key="JAVA" value="91" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2233" />
+          <entry key="java" value="4098" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2233" />
+          <entry key="JAVA" value="4098" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/factories/TargaryenFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/factories/StarkFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/decorator/got/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/pet/Dragon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="50" lean-forward="true" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/pet/Wolf.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/pet/Pet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="35" column="88" selection-start-line="35" selection-start-column="88" selection-end-line="35" selection-end-column="88" />
+              <folding>
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#366#367#0" expanded="true" />
+                <element signature="e#398#399#0" expanded="true" />
+                <element signature="e#433#434#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#506#507#0" expanded="true" />
+                <element signature="e#540#541#0" expanded="true" />
+                <element signature="e#661#662#0" expanded="true" />
+                <element signature="e#686#687#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/Personage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="24" column="94" selection-start-line="24" selection-start-column="94" selection-end-line="24" selection-end-column="94" />
+              <folding>
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#275#276#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
+                <element signature="e#408#409#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/Lanister.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#191#192#0" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/Stark.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+              <folding>
+                <element signature="e#185#186#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/Targaryen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,16 +230,20 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>stark</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>lanister</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/Personage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/interfacing/Stark.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/interfacing/Targaryen.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/interfacing/Killing.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/interfacing/KillMachine.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/interfacing/Character.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/interfacing/KillWithDragonMachine.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/interfacing/KillWithSwordMachine.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/interfacing/Test.java" />
@@ -100,6 +269,32 @@
         <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/observer/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/decorator/GloverHouse.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/decorator/got/GloverHouse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/decorator/got/StarkHouse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/decorator/hedfirst/Beverage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/decorator/got/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/strategy/client/Personage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/Personage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/Pet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/House.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/PersonageFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/pet/PetType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/factories/TargarienFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/LanisterPersonage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/StarkPersonage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/TargaryenPersonage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/pet/Dragon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/pet/Wolf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/pet/Lion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/factories/PersonageFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/factories/LanisterFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/factories/StarkFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/factories/TargaryenFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/pet/Pet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/Stark.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/Personage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/Lanister.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/Targaryen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/Test.java" />
       </list>
     </option>
   </component>
@@ -115,6 +310,7 @@
     <option name="width" value="1381" />
     <option name="height" value="805" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -151,7 +347,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Patterns" type="b2602c69:ProjectViewProjectNode" />
@@ -159,8 +355,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Patterns" type="b2602c69:ProjectViewProjectNode" />
@@ -168,9 +364,9 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
-              <item name="got" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="factories" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Patterns" type="b2602c69:ProjectViewProjectNode" />
@@ -178,8 +374,9 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="observer" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="products" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Patterns" type="b2602c69:ProjectViewProjectNode" />
@@ -187,8 +384,10 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="products" type="462c0819:PsiDirectoryNode" />
+              <item name="pet" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -200,7 +399,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538371477752" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538516259980" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
   </component>
   <component name="RecentsManager">
@@ -208,6 +407,7 @@
       <recent name="edu.pinkmotan.pattern.observer.observer" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/decorator" />
       <recent name="$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/decorator" />
       <recent name="$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/observer/observer" />
     </key>
@@ -224,7 +424,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (2)">
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.pinkmotan.patterns.factory.Test" />
+      <module name="patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.pinkmotan.patterns.factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.pinkmotan.patterns.strategy.Test" />
       <module name="patterns" />
@@ -267,11 +480,9 @@
     <list>
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.Test (1)" />
-      <item itemvalue="Application.Test (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
       </list>
@@ -294,7 +505,7 @@
     <frame x="0" y="23" width="1381" height="805" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26512322" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23973115" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -304,14 +515,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3253857" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915967" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39831698" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3277311" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32678822" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -357,49 +568,28 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/observer/subject/SevenKingdomThrone.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/observer/subject/SevenKingdomThrone.java</url>
           <line>41</line>
           <properties />
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/factories/PersonageFactory.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/factories/StarkFactory.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/interface/Personage" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/strategy/killbehaviour/KillMachineInofensive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/strategy/killbehaviour/KillMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/strategy/killbehaviour/KillWithDragonMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/strategy/killbehaviour/KillWithSwordMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/strategy/killbehaviour/KillWithSwordMachine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -413,7 +603,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/strategy/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/strategy/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
@@ -423,58 +613,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/strategy/client/Targaryen.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/strategy/client/Targaryen.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/strategy/client/Stark.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/strategy/client/Stark.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/observer/observer/CustomObserver.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/observer/observer/CustomObserver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/strategy/client/Personage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-228">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
-            <element signature="e#604#605#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#668#669#0" expanded="true" />
-            <element signature="e#698#699#0" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#775#776#0" expanded="true" />
-            <element signature="e#834#835#0" expanded="true" />
-            <element signature="e#880#881#0" expanded="true" />
-            <element signature="e#905#906#0" expanded="true" />
-            <element signature="e#939#940#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/observer/subject/Subject.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/observer/subject/Subject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -489,14 +652,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="158" selection-start-line="158" selection-end-line="158" />
-          <folding>
-            <element signature="e#5937#5938#0" expanded="true" />
-            <element signature="e#5967#5968#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/observer/observer/Stark.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/observer/observer/Stark.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
@@ -510,7 +669,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/observer/subject/SevenKingdomThrone.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/observer/subject/SevenKingdomThrone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="237">
           <caret line="41" selection-start-line="41" selection-end-line="41" />
@@ -522,7 +681,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/observer/observer/Personage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/observer/observer/Personage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="43" column="13" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="13" />
@@ -533,7 +692,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/observer/observer/Lanister.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/observer/observer/Lanister.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="16" column="13" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="13" />
@@ -547,7 +706,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/observer/observer/Targaryen.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/observer/observer/Targaryen.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="17" column="13" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="13" />
@@ -561,18 +720,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/decorator/TullyHouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-          <folding>
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/observer/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/decorator/TullyHouse.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/observer/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
@@ -582,59 +731,305 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/decorator/got/GloverHouse.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/decorator/got/GloverHouse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/decorator/got/MormontHouse.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/decorator/got/MormontHouse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/decorator/got/SevenKingdomHouse.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/decorator/got/SevenKingdomHouse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/decorator/got/SevenKingdomSmallHouse.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/decorator/got/SevenKingdomSmallHouse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/decorator/got/StarkHouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/decorator/got/Status.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/decorator/got/Status.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/decorator/got/TargaryenHouse.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/decorator/got/TargaryenHouse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/pattern/decorator/got/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/decorator/got/StarkHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/decorator/hedfirst/CondimentDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/decorator/hedfirst/DarkRoast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/decorator/hedfirst/Espresso.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/decorator/hedfirst/HouseBlend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/decorator/hedfirst/Mocha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/decorator/hedfirst/Size.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/decorator/hedfirst/Soy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/decorator/hedfirst/StarbuzzCoffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/decorator/hedfirst/Whip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/decorator/hedfirst/Beverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/decorator/got/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="100" selection-start-line="23" selection-start-column="100" selection-end-line="23" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/strategy/client/Personage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="7" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/House.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/pet/PetType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/pet/Lion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/factories/PersonageFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/factories/LanisterFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/factories/StarkFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/factories/TargaryenFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/pet/Dragon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="50" lean-forward="true" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/pet/Wolf.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/pet/Pet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="35" column="88" selection-start-line="35" selection-start-column="88" selection-end-line="35" selection-end-column="88" />
+          <folding>
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/Lanister.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/Personage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="24" column="94" selection-start-line="24" selection-start-column="94" selection-end-line="24" selection-end-column="94" />
+          <folding>
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/Stark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/products/Targaryen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/pinkmotan/patterns/factory/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
