@@ -1,5 +1,9 @@
 package edu.pinkmotan.patterns.adapter;
 
+/**
+ *
+ * @author AlGore
+ */
 public class BlackWhiteNoOne implements NoOne {
     @Override
     public void kill(String personageName) {

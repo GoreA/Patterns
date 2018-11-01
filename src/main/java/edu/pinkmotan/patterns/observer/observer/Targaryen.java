@@ -1,9 +1,12 @@
 package edu.pinkmotan.patterns.observer.observer;
 
-
 import java.util.Observable;
 import java.util.Observer;
 
+/**
+ *
+ * @author AlGore
+ */
 public class Targaryen extends Personage implements Observer {
 
     public Targaryen(String name, String pet) {

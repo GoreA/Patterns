@@ -1,5 +1,9 @@
 package edu.pinkmotan.patterns.adapter;
 
+/**
+ *
+ * @author AlGore
+ */
 public class FacelessMan implements Lord {
 
     NoOne adaptee;

@@ -6,6 +6,7 @@ import edu.pinkmotan.patterns.observer.observer.Personage;
 /**
  *
  * A custom Observer that takes care about observers
+ * @author AlGore
  */
 public interface Subject {
     void notifyObservers(Personage personage);

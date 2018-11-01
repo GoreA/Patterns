@@ -1,5 +1,9 @@
 package edu.pinkmotan.patterns.strategy.killbehaviour;
 
+/**
+ *
+ * @author AlGore
+ */
 public class KillWithDragonMachine implements KillMachine {
 
     public void kill() {

@@ -4,6 +4,10 @@ import edu.pinkmotan.patterns.factory.products.House;
 import edu.pinkmotan.patterns.factory.products.Personage;
 import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 
+/**
+ *
+ * @author AlGore
+ */
 public class PersonageFactory {
     public Personage getPersonage(String name, House house){
         switch (house){

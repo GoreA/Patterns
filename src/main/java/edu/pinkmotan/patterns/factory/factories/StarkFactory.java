@@ -7,6 +7,10 @@ import edu.pinkmotan.patterns.factory.products.pet.Pet;
 import edu.pinkmotan.patterns.factory.products.pet.PetType;
 import edu.pinkmotan.patterns.factory.products.pet.Wolf;
 
+/**
+ *
+ * @author AlGore
+ */
 public class StarkFactory extends PersonageFactory {
 
     @Override

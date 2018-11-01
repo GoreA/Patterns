@@ -4,6 +4,10 @@ import edu.pinkmotan.patterns.factory.factories.PersonageFactory;
 import edu.pinkmotan.patterns.factory.products.House;
 import edu.pinkmotan.patterns.factory.products.Personage;
 
+/**
+ *
+ * @author AlGore
+ */
 public class Test {
     public static void main(String[] args) {
         PersonageFactory factory = new PersonageFactory();

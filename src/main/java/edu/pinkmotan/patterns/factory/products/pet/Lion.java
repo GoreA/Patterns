@@ -2,6 +2,10 @@ package edu.pinkmotan.patterns.factory.products.pet;
 
 import edu.pinkmotan.patterns.factory.products.Lanister;
 
+/**
+ *
+ * @author AlGore
+ */
 public class Lion extends Pet {
 
     public Lion(String name, PetType type, Lanister owner) {

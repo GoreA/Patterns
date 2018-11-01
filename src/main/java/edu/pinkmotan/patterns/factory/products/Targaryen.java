@@ -1,7 +1,9 @@
 package edu.pinkmotan.patterns.factory.products;
 
-import edu.pinkmotan.patterns.factory.products.pet.Pet;
-
+/**
+ *
+ * @author AlGore
+ */
 public class Targaryen extends Personage {
 
     public Targaryen(String name){

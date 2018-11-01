@@ -3,6 +3,10 @@ package edu.pinkmotan.patterns.strategy.client;
 import edu.pinkmotan.patterns.strategy.killbehaviour.KillMachine;
 import edu.pinkmotan.patterns.strategy.killbehaviour.KillMachineInofensive;
 
+/**
+ *
+ * @author AlGore
+ */
 public abstract class Personage {
     String name;
     String pet;

@@ -5,6 +5,10 @@ import edu.pinkmotan.patterns.observer.subject.SevenKingdomThrone;
 
 import java.util.Observer;
 
+/**
+ *
+ * @author AlGore
+ */
 public class Test {
     public static void main(String[] args) {
         SevenKingdomThrone throne = new SevenKingdomThrone();

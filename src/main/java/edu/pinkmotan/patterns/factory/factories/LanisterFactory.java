@@ -1,12 +1,15 @@
 package edu.pinkmotan.patterns.factory.factories;
 
-import edu.pinkmotan.patterns.factory.products.House;
 import edu.pinkmotan.patterns.factory.products.Lanister;
 import edu.pinkmotan.patterns.factory.products.Personage;
 import edu.pinkmotan.patterns.factory.products.pet.Lion;
 import edu.pinkmotan.patterns.factory.products.pet.Pet;
 import edu.pinkmotan.patterns.factory.products.pet.PetType;
 
+/**
+ *
+ * @author AlGore
+ */
 public class LanisterFactory extends PersonageFactory {
 
     @Override

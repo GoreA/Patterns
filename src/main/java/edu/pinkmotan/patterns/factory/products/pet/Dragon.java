@@ -2,6 +2,10 @@ package edu.pinkmotan.patterns.factory.products.pet;
 
 import edu.pinkmotan.patterns.factory.products.Targaryen;
 
+/**
+ *
+ * @author AlGore
+ */
 public class Dragon extends Pet {
 
     public Dragon(String name, PetType type, Targaryen owner) {

@@ -2,6 +2,10 @@ package edu.pinkmotan.patterns.factory.products.pet;
 
 import edu.pinkmotan.patterns.factory.products.Personage;
 
+/**
+ *
+ * @author AlGore
+ */
 public abstract class Pet {
     String name;
     PetType type;

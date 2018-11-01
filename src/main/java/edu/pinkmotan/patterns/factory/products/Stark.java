@@ -1,7 +1,9 @@
 package edu.pinkmotan.patterns.factory.products;
 
-import edu.pinkmotan.patterns.factory.products.pet.Pet;
-
+/**
+ *
+ * @author AlGore
+ */
 public class Stark extends Personage {
 
     public Stark(String name){

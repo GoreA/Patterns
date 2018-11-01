@@ -5,6 +5,10 @@ import edu.pinkmotan.patterns.observer.observer.Personage;
 
 import java.util.Observable;
 
+/**
+ *
+ * @author AlGore
+ */
 public class SevenKingdomThrone extends Observable {
     Personage queen;
 

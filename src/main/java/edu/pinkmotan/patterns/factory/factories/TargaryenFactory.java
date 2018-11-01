@@ -1,12 +1,15 @@
 package edu.pinkmotan.patterns.factory.factories;
 
-import edu.pinkmotan.patterns.factory.products.House;
 import edu.pinkmotan.patterns.factory.products.Personage;
 import edu.pinkmotan.patterns.factory.products.Targaryen;
 import edu.pinkmotan.patterns.factory.products.pet.Dragon;
 import edu.pinkmotan.patterns.factory.products.pet.Pet;
 import edu.pinkmotan.patterns.factory.products.pet.PetType;
 
+/**
+ *
+ * @author AlGore
+ */
 public class TargaryenFactory extends PersonageFactory{
 
     @Override

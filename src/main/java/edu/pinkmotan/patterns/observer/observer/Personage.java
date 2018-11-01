@@ -1,5 +1,9 @@
 package edu.pinkmotan.patterns.observer.observer;
 
+/**
+ *
+ * @author AlGore
+ */
 public abstract class Personage {
     String name;
     String pet;
